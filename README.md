@@ -3,11 +3,11 @@ a small cli program (mainly designed  for debian proot distro termux) to get off
 
 #Features 
 
-1. download any video/playlist off Youtube in multiple quality
+  1. download any video/playlist off Youtube in multiple quality
 
-2.download any song/music playlist off Youtube/Youtube Music
+  2.download any song/music playlist off Youtube/Youtube Music
 
-3.download any song/music playlist off Spotify
+  3.download any song/music playlist off Spotify
 
 #More about the project 
 
